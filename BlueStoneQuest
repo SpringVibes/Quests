@@ -1,0 +1,66 @@
+Blue Stone
+
+Quest min: 13
+Difficulty: Easy
+Coords: 1589 73 -1276
+
+Stage 1
+[1/3] Sipal: Hey you! Young traveler, would you mind if I asked you a question?
+[1/2] You: (Yes) (No)
+[2/3] Sipal: Great! I'm eh... Sick... Yea, sick! And I need to bring this mysterious new ore we found to the ore lab. The lab is in Yendale, next to the river. 
+[2/2] You: I can help you.
+[3/3] Sipal: Great, you need to hurry. I was supposed to leave the mythical stone to the ore proffesor one week ago.... Please hurry!
+(Deliver the stone to the lab) x: 1698 y: 83 z: -1322
+
+Stage 2
+[1/4] You: Hello?
+[1/4] Professor Ane: You're late... AGAIN! How many times do I have to tell you....
+[2/4] You: I'm sorry, but...
+[2/4] Professor Ane: Oh... Im sorry, I though it was that wortless piece of ...... He's always late, he never listens to anything I say! 
+[3/4] You: I brought you the mythical stone you asked for.
+[3/4] Professor Ane: Oh yea. Well I'll take that. Now lets just do this and then that. Some of this plus some of that. Oh....
+[4/4] You: What is it? 
+[4/4] Professor Ane: This stone is locked by some arcane energy, the energy is protecting the stone from something... Could you walk to the famous warlock he might be able to solve the spell. He lives up ahead just follow the river and take a right before the water fall. HURRY
+(Bring the stone to the warlock living next to the river) x:1878 y:79 z:1426 
+
+Stage 3
+[1/2] Warlock Oclius: Heeeeello.... Hoooow caaan I heeelp you little friend....
+[1/1] You: This rock have a magical spell protecting it, could you maybe solve the spell?
+[2/2] Warlock Oculius: Yea... Of course..... Buuuut, I need ssssssome ssspecial ingredientsssss. One dry crystal, 5 pieces of zombie flesh and last but not least, 2 magical melons. You can find the crystal in a cave not far from here. And the melons in Ereinor. 
+(Collect [1 dry crystal], [5 Zombie Flesh], [2 Magical Melons] Crystal cave: x: 1853  y: 74 z: -1349 
+(When you have collected all the materials) 
+
+Stage 4
+[1/2] Warlock Oculius: You got all the ingredientsssss. "Iwa, Iwa, Terra, miru koto shotai, recludam. Mittere Alica!" 
+(The stone begins to glow and levitate above the table)
+[2/2] Warlock Oculius: Woow. Thisss iss a completely new dissssscovery. A new ore that holdss incredible magical power. Magesssssss all over the world will love this, bring it back to the lab! 
+[1/1] You: Thank you so much! 
+(Bring the stone to the professor)
+
+Stage 5
+[1/3] Professor Ane: What did the warlock say?
+[1/2] You: He told me that the stone contains a high amount of magical power that wizards all over the world...
+[2/3] Professor Ane: Magical power!? That means money..... I'll take the stone. You can also inform Sipal that he is fired. 
+[2/2] You: Can you inform me more about the stone? I'd like to know if...
+[3/3] Professor Ane: Not now kid! Leave. I have work to do... Money, money, money.... MONEY
+(Tell Sipal about the news)
+
+Stage 6
+[1/2] Sipal: Hello! What did the professor say?
+(You tell him the news)
+[2/2] Sipal: Oh..... Well.... Magical stone you say? Lets hope it doesn't end up in the wrong hands....
+Xp:
+Gold:
+Loot: Blue Stone shard (the shard is for a future quest) 
+
+If you talk to; 
+Sipal in the wrong level: Can't you see Im busy? 
+Professor Ane: ...
+Warlock Oculius: Come inssside....
+If you talk to the NPCs after the quest is completed: 
+Sipal: I'm still packing my stuff...
+Professor Ane: Money, money, money...
+Warlock Oculius: You're still welcome in... 
+If you talk to Sipal in Stages 1-5 he will say: Delivered the stone yet?
+If you talk to in Stage 3-4 Professor Ane: Can you hurry! 
+If you talk to the warlock in Stage 3: How's the collecting gooiiing.... 
